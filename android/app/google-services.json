@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1067110588656",
+    "project_id": "sowandgrow-e9056",
+    "storage_bucket": "sowandgrow-e9056.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067110588656:android:78fa0a9959fd3b87cf2235",
+        "android_client_info": {
+          "package_name": "com.example.sowandgrow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb3DyBpio3w9MXk5nKHVfWwsFduLhWCbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
